@@ -38,7 +38,13 @@ pec4/
 ├── requirements.txt        # Dependencias del proyecto
 </pre>
 
-## Activar entorno virtual
+## Entorno virtual
+
+### Crear entorno virtual
+
+virtualenv .venv
+
+### Activar entorno virtual
 
 source .venv/Scripts/activate
 
@@ -75,3 +81,7 @@ Luego se abre el documento doc/src/index.html en el navegador.
 ## Linter (PEP8)
 
 pylint src/
+
+## Repositorio GitHub
+
+git clone https://github.com/ldiazj/pec4.git
