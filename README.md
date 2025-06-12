@@ -89,4 +89,4 @@ pylint src/
 
 ## Repositorio GitHub
 
-git clone https://github.com/ldiazj/pec4.git
+https://github.com/ldiazj/pec4.git
