@@ -7,6 +7,9 @@ This product includes software developed by the following third parties:
 - pandas (https://pandas.pydata.org/)
 - matplotlib (https://matplotlib.org/)
 - setuptools (https://setuptools.pypa.io/)
--
--
-- 
+- DateTime (https://github.com/zopefoundation/DateTime)
+- scipy (https://scipy.org/)
+- pytest (https://docs.pytest.org/)
+- pytest-cov (https://github.com/pytest-dev/pytest-cov)
+- pylint (https://pylint.pycqa.org/)
+- pdoc3 (https://github.com/pdoc3/pdoc)
